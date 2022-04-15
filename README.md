@@ -1,6 +1,7 @@
-# Livro de Receitas :main cook:
+# Livro de Receitas 👨‍🍳
 
 Olá! Bem vindo ao meu livro de receitas :wave:
 
  - Strogonoff de Frango
  - pavé
+ - Strogonoff de Frango 🐔
